@@ -1,0 +1,2 @@
+# Webcomics-Industry-Report-and-Egypt2022
+Using Tableau, the datasets are from kaggle and some are manually collected. You will find analysis and patterns of the top companies which are Webtoon, Marvel, Tapas, DC. The report also give recommendations for the industry to start in the Egyptian market discussing the opportunites and challenges. All the tableau files will be uploaded as well as the report.
